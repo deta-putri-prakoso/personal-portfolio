@@ -9,3 +9,6 @@ Back then (mid-year of 2019), I have no experience on data analysis, and any pro
 # EDA using SQL
 I took an online course on edx, called SQL for Data Science by IBM. In this course, I learn how to: composing and running basiq sql, using string and pattern, sorting and grouping results sets, working with multiple tables, and accessing databases using Python. The final assignment is to explore the data given (about the city of Chicago). 
 I found the course fun and challenging, plus the course help me to sharpen my sense of understanding the data and what kind of insights I can get.
+
+# Data pre-processing using Python
+This time, I had a chance to enroll in Analyzing Data with Python courses by IBM. The learning objectives of this notebook is to importing the datasets, data formatting, data normalization, binning, including how to identify and handle missing values.
